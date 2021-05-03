@@ -1,3 +1,3 @@
-module github.com/Radiophysiker/snippetbox
+module github.com/radiophysiker/snippetbox
 
 go 1.16
